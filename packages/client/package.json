@@ -1,0 +1,22 @@
+{
+  "name": "@sync-engine/client",
+  "version": "1.0.0",
+  "author": "Emirhan CAMCI <byemir@live.com>",
+  "license": "AGPL-3.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w"
+  },
+  "dependencies": {
+    "@sync-engine/core": "*"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "expo-sqlite": "^14.0.0"
+  },
+  "peerDependencies": {
+    "expo-sqlite": ">=13.0.0"
+  }
+}
