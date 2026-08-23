@@ -34,7 +34,7 @@ SyncEngine is built with an Open-Core model. The Core is fully open-source (AGPL
 | **Background Sync (iOS/Android)** | ❌ | ✅ |
 | **Air-gapped Offline License Key** | ❌ | ✅ |
 
-[👉 **Get SyncEngine Pro on Polar.sh**](https://polar.sh/syncengine)
+[👉 **Get SyncEngine Pro on Polar.sh**](https://buy.polar.sh/polar_cl_Cd8EwV1dXA6GInIbubfrZboOvmEvYJS2TKjKU2sbuLG)
 
 *SyncEngine Pro seamlessly hooks into the Core engine via our Plugin Architecture—no code forks, no messy `if (isPro)` checks.*
 
