@@ -1,0 +1,19 @@
+{
+  "name": "@sync-engine/core",
+  "version": "1.0.0",
+  "author": "Emirhan CAMCI <byemir@live.com>",
+  "license": "AGPL-3.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w",
+    "test": "node --expose-gc ../../node_modules/.bin/jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.4.2",
+    "ts-jest": "^29.4.12",
+    "typescript": "^5.5.0"
+  }
+}
